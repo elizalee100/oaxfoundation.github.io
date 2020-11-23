@@ -1,6 +1,7 @@
 ---
 layout: post
 author: OAX Foundation
+tag: tech-developments
 ---
 
 #OAX Development Prototype FAQ
