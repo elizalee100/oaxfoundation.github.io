@@ -2,6 +2,7 @@
 layout: post
 author: OAX Foundation
 image: /img/blog-images/take_crypto_mainstream_in_2018.jpeg
+tag: industry-business
 ---
 Happy New Year to you all! 
 
